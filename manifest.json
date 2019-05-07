@@ -1,0 +1,24 @@
+{
+  "api_version": "1",
+  "manifest_version": "2",
+  "name": "LWSM",
+  "description": "Linux Window Session Manager from Ulauncher",
+  "developer_name": "Kobus Post",
+  "icon": "images/icon.png",
+  "preferences": [
+    {
+      "id": "lwsm_restore_keyword",
+      "type": "keyword",
+      "name": "Restore an LWSM preset",
+      "description": "Keyword to restore an LWSM preset",
+      "default_value": "lwsm"
+    },
+    {
+      "id": "lwsm_location",
+      "type": "input",
+      "name": "LWSM presets location",
+      "description": "Define where your LWSM presets are located",
+      "default_value": "~/.lwsm/sessionData"
+    }
+  ]
+}
