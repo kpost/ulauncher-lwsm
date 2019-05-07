@@ -1,6 +1,6 @@
 # ulauncher-lwsm
 
-> Launcher for the [LWSM window manager](https://github.com/johannesjo/linux-window-session-manager/)
+> Launcher for [Linux Window Session Manager](https://github.com/johannesjo/linux-window-session-manager/)
 
 ![screenshot.png](screenshot.png)
 
@@ -8,7 +8,7 @@
 
 - [ulauncher](https://ulauncher.io/)
 - Python >= 2.7
-- [LWSM](https://github.com/johannesjo/linux-window-session-manager/)
+- [Linux Window Session Manager (LWSM)](https://github.com/johannesjo/linux-window-session-manager/)
 
 ## Install
 
